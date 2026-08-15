@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ben-github-hero.jpg" alt="Ben Campbell — Social Strategist, Content Marketer, Builder" width="100%" />
+  <img src="https://raw.githubusercontent.com/kylozenzen/kylozenzen/main/assets/ben-github-hero.svg" alt="Ben Campbell — Social Strategist, Content Marketer, Builder" width="100%" />
 </p>
 
 <p align="center">
