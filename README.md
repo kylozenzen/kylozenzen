@@ -1,16 +1,72 @@
-# Hey, I'm Ben 👋
+<p align="center">
+  <img src="./assets/ben-github-hero.jpg" alt="Ben Campbell — Social Strategist, Content Marketer, Builder" width="100%" />
+</p>
 
-### Social media strategist. Content marketer. Builder of things that probably started with “what if...?”
+<p align="center">
+  <a href="https://bencampbell.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=EFFF00" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/bencampbell8"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://nobodycreative.netlify.app/"><img src="https://img.shields.io/badge/NOBODY%20CREATIVE-D946EF?style=for-the-badge&logoColor=white" alt="Nobody Creative" /></a>
+  <a href="mailto:hirebencampbell@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EFFF00" alt="Email" /></a>
+</p>
 
-My actual career is in **social media, content marketing, community, campaigns, and audience strategy**.
+## Hey, I'm Ben 👋
 
-I’ve worked across destination brands, tech education, architecture, and SaaS — building strategies, creating campaigns, writing content, managing communities, and figuring out how to turn attention into something useful for a business.
+I'm a **social media strategist and content marketer** who likes turning audience insight, business goals, and creative ideas into things people actually care about.
 
-Along the way, I've also become the kind of person who has an idea at 10:47 PM and thinks:
+I've worked across destination brands, tech education, architecture, and SaaS — building strategies, campaigns, communities, content systems, and the occasional very unnecessary browser game.
+
+And somewhere along the way, I became the kind of person who has an idea at 10:47 PM and thinks:
 
 > *“I could probably build that.”*
 
-And unfortunately for my GitHub contribution graph, I usually do.
+Unfortunately for my GitHub contribution graph, I usually do.
+
+---
+
+### 🔨 Currently building
+
+**Browser games · marketing utilities · AI-assisted workflows · and whatever idea refused to stay in the Notes app.**
+
+GitHub has basically become my creative lab: some repos are polished products, some are prototypes, some are experiments, and some are evidence that I should occasionally close the laptop.
+
+---
+
+## ⭐ Featured projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📬 PostIQ
+**Marketing tool**
+
+A Buffer-connected workspace for turning rough ideas into publishable content without approximately 47 copy-and-pastes.
+
+[**→ Open PostIQ**](https://postiq.netlify.app/)
+
+</td>
+<td width="33%" valign="top">
+
+### ✅ Receipts
+**Client approvals**
+
+A lightweight approval workflow built around a radical product insight: clients should not need another account just to say “looks good.”
+
+[**→ Open Receipts**](https://receiptsdemo.netlify.app/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🎮 Plot Twisted
+**Browser game**
+
+Terrible movie descriptions. Suspicious VHS tapes. One job: figure out what the hell the movie is.
+
+[**→ Play Plot Twisted**](https://plot-twisted.netlify.app/) · [Repo](https://github.com/kylozenzen/plot-twisted-2026)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -22,32 +78,15 @@ I'm not trying to pretend I'm a traditional software engineer.
 
 I'm a marketer who spent two years working at a coding school, learned enough about web development, APIs, deployment, product thinking, and debugging to be dangerous — and then AI dramatically shortened the distance between:
 
-**“Wouldn't it be cool if...”**
+**“Wouldn't it be cool if...”** → **“Okay, it works. Mostly.”**
 
-and
-
-**“Okay, it works. Mostly.”**
-
-So GitHub has basically become my creative lab.
-
-Some repos are real products.  
-Some are games.  
-Some are marketing tools.  
-Some are prototypes.  
-Some are experiments that taught me something.  
-And some are evidence that I should occasionally close the laptop.
-
-I build because it's fun.
-
-More importantly, building makes me a better marketer: it forces me to think about audiences, friction, onboarding, positioning, UX, adoption, feedback loops, and what actually makes someone want to use something.
+I build because it's fun. More importantly, building makes me a better marketer: it forces me to think about audiences, friction, onboarding, positioning, UX, adoption, feedback loops, and what actually makes someone want to use something.
 
 ---
 
 ## 🧠 Marketer first. Builder second.
 
 My sweet spot is where **strategy + creativity + technology** overlap.
-
-I like:
 
 - Social media strategy
 - Content marketing
@@ -59,13 +98,9 @@ I like:
 - AI-assisted workflows
 - Prototyping ridiculous ideas until they're suddenly not ridiculous
 
-My approach to AI is pretty simple:
+My approach to AI is pretty simple: **use it for leverage, not judgment.**
 
-**Use it for leverage, not judgment.**
-
-Research faster. Prototype faster. Debug faster. Explore more directions.
-
-But the strategy, taste, context, decisions, and final call still need a human attached.
+Research faster. Prototype faster. Debug faster. Explore more directions. But the strategy, taste, context, decisions, and final call still need a human attached.
 
 Preferably one with too many tabs open.
 
@@ -73,55 +108,31 @@ Preferably one with too many tabs open.
 
 ## 📈 A few career receipts
 
-Across my career, my work has contributed to:
-
-**6M+** audience footprint  
-**470M+** impressions  
-**15M+** interactions  
-**$75K+** attributed revenue
+<table>
+<tr>
+<td align="center"><strong>6M+</strong><br/><sub>AUDIENCE FOOTPRINT</sub></td>
+<td align="center"><strong>470M+</strong><br/><sub>IMPRESSIONS</sub></td>
+<td align="center"><strong>15M+</strong><br/><sub>INTERACTIONS</sub></td>
+<td align="center"><strong>$75K+</strong><br/><sub>ATTRIBUTED REVENUE</sub></td>
+</tr>
+</table>
 
 I've led and supported social, content, community, PR, campaign, and digital work for organizations including **San Antonio Zoo, Overland Partners, and Codeup**.
 
-I've also been featured by **Buffer** for both my marketing work and the products I've built around social media workflows.
+I've also been featured by **Buffer** for both my marketing work and the products I've built around social media workflows:
 
----
-
-## 🧪 Things you'll find around here
-
-### 📣 Marketing tools
-
-**[PostIQ](https://postiq.netlify.app/)**  
-A Buffer-connected workspace for turning rough ideas into publishable content without approximately 47 copy-and-pastes.
-
-**[Receipts](https://receiptsdemo.netlify.app/)**  
-A lightweight client approval workflow built around a radical product insight:
-
-*clients should not need another account just to say “looks good.”*
-
-### 🎮 Games & questionable ideas
-
-**[Plot Twisted](https://plot-twisted.netlify.app/)**  
-Terrible movie descriptions. Suspicious VHS tapes. Figure out what the hell the movie is.
-
-→ [View the repo](https://github.com/kylozenzen/plot-twisted-2026)
-
-And then there are the arcade games, tiny experiments, mobile concepts, fitness apps, productivity tools, prototypes, and whatever I decided sounded fun that week.
-
-You've been warned.
+- [Buffer case study: building PostIQ + Receipts](https://buffer.com/resources/postiq-case-study/)
+- [Open Tabs with Ben Campbell](https://theweeklyscrollbybuffer.substack.com/p/open-tabs-with-ben-campbell)
 
 ---
 
 ## ⚡ Nobody Creative
 
-A lot of these experiments now live under **Nobody Creative** — my independent creative studio for:
+A lot of these experiments now live under **[Nobody Creative](https://nobodycreative.netlify.app/)** — my independent creative studio for:
 
 **apps · games · marketing tools · experiments · brand ideas · things that escaped the Notes app**
 
-The philosophy is pretty simple:
-
 ### Build weird things. Ship the good ones.
-
-→ [Explore Nobody Creative](https://nobodycreative.netlify.app/)
 
 ---
 
@@ -145,12 +156,8 @@ I'm a **social media + content marketing strategist** who likes understanding wh
 
 I'm also a dad, husband, gamer, movie nerd, theme-park person, and firm believer that professional work doesn't have to sound like it was written by a committee of beige cardigans.
 
-If you're here because you're hiring:
-
 ### → [See my portfolio](https://bencampbell.netlify.app/)
 
-If you're here because one of these weird projects sounded interesting:
-
-### ⭐ Poke around. Follow along. Steal inspiration. Open an issue. Say hi.
+If you're here because one of these weird projects sounded interesting: **poke around, follow along, steal inspiration, open an issue, say hi.**
 
 There's a very good chance another repo will appear soon anyway.
